@@ -1,3 +1,3 @@
-string task_id
-string status
-string reason
+string key
+string value
+
